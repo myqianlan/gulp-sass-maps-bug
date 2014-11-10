@@ -1,0 +1,16 @@
+{
+  "name": "bug",
+  "version": "0.1.0",
+  "description": "gulp sass maps bug",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myqianlan (linquantan@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-sass": "^1.1.0",
+    "gulp-sourcemaps": "^1.2.8",
+  }
+}
