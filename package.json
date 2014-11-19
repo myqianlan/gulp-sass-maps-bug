@@ -1,16 +1,24 @@
 {
-  "name": "bug",
-  "version": "0.1.0",
-  "description": "gulp sass maps bug",
+  "name": "gulp-sass-maps-bug",
+  "version": "1.0.0",
+  "description": "--- > First,clone this repo.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "myqianlan (linquantan@gmail.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myqianlan/gulp-sass-maps-bug.git"
+  },
+  "author": "",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myqianlan/gulp-sass-maps-bug/issues"
+  },
+  "homepage": "https://github.com/myqianlan/gulp-sass-maps-bug",
   "devDependencies": {
-    "gulp": "^3.8.8",
+    "gulp": "^3.8.10",
     "gulp-sass": "^1.1.0",
-    "gulp-sourcemaps": "^1.2.8",
+    "gulp-sourcemaps": "^1.2.8"
   }
 }
